@@ -1,6 +1,9 @@
 # UsedCarPrice
 Machine Learning model used to predict price of used Car based on different feature columns <br/>
-Data Set
+Many consider to buy a Used Car intsead of buying of new one, as it's is feasible and a better investment. When you buy a New Car and sale it just another day without any default on it, the price of car reduces by 30%.There are also many frauds in the market who not only sale below average cars with bad condition but also they could mislead to wrong price.
+So, here I used this following dataset to Predict the price of any used car based on historical data.
+
+Data Set 
   1. S.No. : Serial Number
   2. Name : Name of the car which includes Brand name and Model name
   3. Location : The location in which the car is being sold or is available for purchase
