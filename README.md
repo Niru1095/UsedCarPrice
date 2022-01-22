@@ -1,5 +1,5 @@
 # UsedCarPrice
-Machine Learning model used to predict price of used Car based on different feature columns 
+Machine Learning model used to predict price of used Car based on different feature columns <br/>
 Data Set:
   1. S.No. : Serial Number
   2. Name : Name of the car which includes Brand name and Model name
