@@ -29,6 +29,3 @@ Data Set
 - Does Mileage ,Engine and Power have any effect on the pricing of the car?
 - How does number of seat ,Fuel type effect the pricing.?
 
-![alt text](https://github.com/Niru1095/UsedCarPrice/blob/main/Corr/Screenshot%202022-01-22%20210110.png)
-![alt text](https://github.com/Niru1095/UsedCarPrice/blob/main/Corr/Screenshot%202022-01-22%20210141.png)
-
